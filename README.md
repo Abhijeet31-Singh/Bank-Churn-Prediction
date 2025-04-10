@@ -36,7 +36,7 @@ Customer churn is a critical issue in the banking industry, as retaining existin
 To get started with BankChurnPredictor-ANN, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/01ankon01/BankChurnPredictor-ANN.git
+git clone https://github.com/Abhijeet31-Singh/Bank-Churn-Prediction
 cd BankChurnPredictor-ANN
 pip install -r requirements.txt
 ```
